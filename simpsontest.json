@@ -1,5 +1,5 @@
 {
-  "count": 477,
+  "count": 478,
   "next": "https://thesimpsonsapi.com/api/locations?page=2",
   "prev": null,
   "pages": 24,
@@ -145,4 +145,5 @@
       "use": ""
     }
   ]
+
 }
