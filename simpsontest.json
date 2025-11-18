@@ -1,0 +1,148 @@
+{
+  "count": 477,
+  "next": "https://thesimpsonsapi.com/api/locations?page=2",
+  "prev": null,
+  "pages": 24,
+  "results": [
+    {
+      "id": 1,
+      "name": "742 Evergreen Terrace",
+      "image_path": "/location/1.webp",
+      "town": "Springfield",
+      "use": "Residential"
+    },
+    {
+      "id": 2,
+      "name": "Springfield Nuclear Power Plant",
+      "image_path": "/location/2.webp",
+      "town": "Springfield",
+      "use": "Energy Source"
+    },
+    {
+      "id": 3,
+      "name": "Springfield Elementary School",
+      "image_path": "/location/3.webp",
+      "town": "Springfield",
+      "use": "Education"
+    },
+    {
+      "id": 4,
+      "name": "Kwik-E-Mart",
+      "image_path": "/location/4.webp",
+      "town": "Springfield",
+      "use": "Convenience Store"
+    },
+    {
+      "id": 5,
+      "name": "Moe's Tavern",
+      "image_path": "/location/5.webp",
+      "town": "Springfield",
+      "use": "Bar"
+    },
+    {
+      "id": 6,
+      "name": "Springfield General Hospital",
+      "image_path": "/location/6.webp",
+      "town": "Springfield",
+      "use": "Hospital"
+    },
+    {
+      "id": 7,
+      "name": "Springfield Town Square",
+      "image_path": "/location/7.webp",
+      "town": "Springfield",
+      "use": "Square"
+    },
+    {
+      "id": 8,
+      "name": "Springfield Police Station",
+      "image_path": "/location/8.webp",
+      "town": "Springfield",
+      "use": "Law enforcement"
+    },
+    {
+      "id": 9,
+      "name": "Springfield Cemetery",
+      "image_path": "/location/9.webp",
+      "town": "Springfield",
+      "use": "Cemetery"
+    },
+    {
+      "id": 10,
+      "name": "Springfield Retirement Castle",
+      "image_path": "/location/10.webp",
+      "town": "Springfield",
+      "use": "Nursing Home"
+    },
+    {
+      "id": 11,
+      "name": "Krusty Burger",
+      "image_path": "/location/11.webp",
+      "town": "",
+      "use": "Fast food chain"
+    },
+    {
+      "id": 12,
+      "name": "Krustylu Studios",
+      "image_path": "/location/12.webp",
+      "town": "Springfield",
+      "use": "Media"
+    },
+    {
+      "id": 13,
+      "name": "Springfield Penitentiary",
+      "image_path": "/location/13.webp",
+      "town": "Springfield",
+      "use": "Prison"
+    },
+    {
+      "id": 14,
+      "name": "Springfield Mall",
+      "image_path": "/location/14.webp",
+      "town": "Springfield",
+      "use": "Shops and restaurants"
+    },
+    {
+      "id": 15,
+      "name": "Duff Brewery",
+      "image_path": "/location/15.webp",
+      "town": "Springfield, Capital City",
+      "use": "Beer factory"
+    },
+    {
+      "id": 16,
+      "name": "First Church of Springfield",
+      "image_path": "/location/16.webp",
+      "town": "Springfield",
+      "use": "Place of Worship"
+    },
+    {
+      "id": 17,
+      "name": "Springfield City Zoo",
+      "image_path": "/location/17.webp",
+      "town": "Springfield",
+      "use": "Zoo"
+    },
+    {
+      "id": 18,
+      "name": "The Android's Dungeon & Baseball Card Shop",
+      "image_path": "/location/18.webp",
+      "town": "Springfield",
+      "use": "Comic shop"
+    },
+    {
+      "id": 19,
+      "name": "Burns Manor",
+      "image_path": "/location/19.webp",
+      "town": "",
+      "use": "Residential"
+    },
+    {
+      "id": 20,
+      "name": "Capital City",
+      "image_path": "/location/20.webp",
+      "town": "",
+      "use": ""
+    }
+  ]
+}
